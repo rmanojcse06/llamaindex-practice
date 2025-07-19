@@ -1,0 +1,104 @@
+This is document regarding me and my family history
+
+My name is Manoj R
+I was born on 31st July 1989 at Om Shakti Hospital in Coimbatore, Tamilnadu.
+Tamilnadu is in India
+
+My father's name is Ravikumar Chokkalingam and my mother's name is Mary Roselin.
+My dad Ravikumar Chokkalingam born on 4th April 1960 at hospital in Kochi, Kerala, India. My dad is very spiritual, religious and orthodox christian and helped me to practise Christianity.
+We belong to Pentecostal fellowship of Christianity.
+My mom Mary Roselin born on 7th October 1965 at an hospital at Coimbatore, Tamilnadu, India.
+I started my schooling in Air Force School, Red Fields located in Coimbatore from LKG aka Lower Kinder Garden till Second Standard, which is CBSE board.
+After then I joined in a school called Shri G N Sam Matric Higher Secondary School and completed my school education from Third till Twelfth.
+
+I studied in Tamil nadu Matriculation Board till tenth standard after which my eleventh and twelfth standard in Tamil nadu State Board.
+I secured 1083/1200 marks in twelfth and 993/1100 in tenth standard. I have taken Maths, Physics, Chemistry majors in my higher secondary.
+Higher Secondary means education after tenth standard till twelfth standard that is eleventh and twelfth standard.
+I have completed my tenth grade or standard on 2004 and twelfth standard on 2006.
+
+Then i have written Anna University Entrance Examination which made me to join PSG College of Technology, Peelamedu, Coimbatore in July 31, 2006.
+I have taken B.E. Computer Science Engineering Majors or CSE and completed my B.E. CSE on May 2010. So I am 2010 CSE Passout.
+My CSE batch in 2010 were called as "f5erz" and my admission number is 06Z332 in my college. 
+
+I have got placed in Tata Consultancy Services or TCS based out in Chennai on 2010 and joined the company at Ambattur, Chennai on 12th August 2010.
+In Ambattur, it was a initial learning program also known as ILP for 2 months, from then i joined to a project in TCS at building named Chennai One at Thoraipakkam, Chennai.
+There i was worked as engineering trainee to an outsourced project of Virgin Media Business for Broadband and Telecommunication in Thoraipakkam, Chennai.
+I worked there for 2 years working on Java, Struts 1.2, Hibernate 2 in a product called Business Customer Portal for Virgin Media UK Customer.
+
+After then due to home sickness, I wanted to quit TCS and then joined in a company near to my hometown, Coimbatore called Mettler Toledo Turing Software also called as MTTS, Puliyakulam, Coimbatore. 
+I got an appointment from MTTS on 18th March 2013, so I quit TCS on 15th March 2013.
+In MTTS, I was selected for core java developer to develop for embedded desktop software for Mettler Toledo US- Retail weighing scales to do prepack and self serve.
+I learnt Java, threads, Remote Mehod Invocation (RMI), Listeners and Java Swing in MTTS. I also worked as a build engineer who build software using Install Shield in C++.
+I love working with MTTS even though i wanted to work long hours because it was near to my home and the distance between company and my home is nearly 1 to 2 kms.
+
+My home was address during working on MTTS was in Air force quaters, and my address during my MTTS working was Building-93, Flat-5, Group D Civilians Colony, AFAC Area, Kamrajar Road, Coimbatore - 641018.
+In MTTS, I nearly worked for 3 years after then I quit MTTS on 15th May 2016. 
+And then joined Robert Bosch Business and Engineering Solutions or RBEI on 4th July 2016. I was initially worked as an outsourced consultant for Sony India Software Private Centre or SISC, Bangalore working for SISC internal employee portal application maintaining SISC employee's leaves, sla, workforce system.
+In RBEI I learnt Java Web Programming and was working on Richfaces, Java Server Faces or JSF, vanilla javascript. I was a lead and was leading 4 developers with me. I also worked for 2 years as a SISC outsourced employee after then I switched to another project in RBEI called i-trams which owned by an engineering team in RBEI under BE-PAC department on January 2019, while SISC is from BS department.
+In itrams, I worked as a embedded core java developer for itrams product, which is an iot product solution for tractors uses 4G / LTE internet to do telemetry and GPS tracking of the device. I solely worked for Kubota Tractor, Japan. I have to serve Japanese Customer in itrams - kubota project in BE-PAC department.
+We have to struggle a lot with Japanese product. I learnt Eclipse OSGi, Apache Karaf and Felix there. We have done application using MQTT and CAN protocol. 
+In 4th August 2017, I got shifted my home from Building-93, Flat-5, Group D Civilians Colony, AFAC Area, Kamrajar Road, Coimbatore - 641018. to 58, SKV Devasya Nagar, Annapuram Road, Podanur, Coimbatore - 641023.
+We build a new house in Podanur and on 4th August 2017, we shifted to permanent home. I bought a home loan of 25 Lakhs with 11 per cent EMI and paid 11,000 rupees per month. 
+I got promoted to Technical Specialist in RBEI on March 2019 from Senior Software Engineer.
+After then I quit from RBEI on November 2020. Then joined in HPE Aruba Networks on 2nd January 2021 as a Cloud Senior Developer.
+In Aruba Networks, I was joined to work in python, circusctl, kubernetes, docker containerization, for Aruba Central on premise applicationa and was working for Aruba on premise Controller Gateways.
+
+About my marriage and my personal life below:
+In 18th May 2018, I got married to Saroneita Sanjana Amirtharaj, daughter of D. Amirtharaj and Salin in a big hall at PVG Kalayana Mandapam in Podanur.
+D. Amirtharaj is my father in law was working as a Sub Inspector of Police in Railway Police Force in Podanur and my mother in law was a house wife and they were residing in 92 A/5, Sri Ram Nagar 7th Street Extension, Chettipalayam Road, Podanur, Coimbatore - 641023.
+I have a sister in law, Annate Anjana Amirtharaj who is also sister of Saroneita Sanjana Amirtharaj.
+Our marriage (Manoj and Sanjana) was happened in Vision Church of God, White Street, Podanur, Coimbatore.
+On 7th July 2020, my father in law Amirtharaj was expired or died due to Urinary Tract Infection.
+On 7th September 2019, my daughter was born for me and Saroneita Sanjana Amirtharaj at PSG Hospital in Peelamedu, Coimbatore - 641004. Me and my wife named her as Adlin Johanna M.
+On 14th February 2023, my son was born for me and my wife at PSG Hospital in Peelamedu, Coimbatore. My son's name is Asher Nathaniel M.
+On 1st September 2022, my sister in law Annate Anjana got married to Naveen Vishwanathan at Thendral Mahal, Podanur, Coimbatore - 640123.
+Annate Anjana and Naveen Vishwanathan have a boy on 19th September 2023 at PSG Hospital and they named their son as Jeswin Joshua . N.
+
+This is about my life.
+
+The below is my family hierarchy in words.
+Ravikumar is my father.
+Mary Roselin is my mother.
+I have no siblings.
+Saroneita Sanjana is my only wife.
+Adlin Johanna is my daughter.
+Asher Nathaniel is my son
+Adlin Johanna is elder than Asher Nathaniel
+Annate Anjana is my sister in law
+Annate Anjana is sister of Saroneita Sanjana
+Amirtharaj is my father in law
+Salin Amirtharaj is my mother in law
+Naveen is my brother in law
+Naveen is only husband of Annate Anjana
+Jeswin Joshua is son of Naveen and Annate
+
+My father Ravikumar is born to Chockkalingam and Shobana
+Chokkalingam is my grandfather while Shobana is my grandmother.
+My grandfather had 7 children.
+My dad Ravikumar is first for my grandfather Chockkalingam
+After then my grandfather had a girl named Shanthi and she was married to Isaiah Selvakumar .
+After Shanthi, my grandfather had a boy named Soundara Pandian
+After Soundara Pandian, my grandfather had a boy named Selve Pandian
+My grandfather also have 3 more children with my father's step mother Vijaya
+My grandfather Chockkalingam and Vijaya had 3 girl children, their names are Stella, Kavitha, Rita.
+So Chockkalingam had 7 children in birth order, Stella, Ravikumar, Rita, Kavitha, Shanthi, Soundara Pandian, Selva Pandian.
+Stella married to Mani and they have two children named Murali and Gayathri. Murali is son of them and Gayathri is daughter of them.
+Kavitha and Shanthi is no more and died due to tubercolosis and Chronic Kidney disease respectively.
+Rita married to Veerasamy and they have two girl named Saranya and Anita.
+Soundara Pandian is married to Jhansi Vinarasi and they have 3 sons named Suri Solomon, Thomas Bharathi and David Rajan
+Selva Pandian was married to Ammu Bhagyalakshmi who is now separated and have 2 daughters named Keerthana and Darathy.
+
+My mother is born to PJ Manuel and Ruby Elizabeth
+My mother had 3 siblings and she is the eldest of all four children of PJ Manuel and Ruby Elizabeth.
+Her siblings are Shyla, Sebastian and John Joseph.
+Manoj Ravikumar, I am the only boy of Ravikumar and Mary Roselin
+Shyla is married to Joni and have 2 kids, Sanjeeth their son followed by Sanu Alice their daughter
+Sebastian who is no more died of heart attack on 2nd September 2014 is married to Maagie and have 2 daughters named Felicia Elizabeth and Annie Manuela
+John Joseph is married to Mary Raichel and have only one daughter named as Sherley Andria.
+Sanjeeth son of Shyla and Joni were married to Jeni and have 2 kids, Jaden Antony their son followed by Jovanna Mary their daughter
+Sanu Alice daughter of Shyla married to Anish Nirmal and have 2 kids, Effy Anot and followed by unnamed son
+Sherley daughter of John Joseph married to Sherwin and have only one daughter named Gratia Plana.
+Felicia Elizabeth daughter of Sebastian married to Ebin
+while Annie Manuela second daughter of Sebastian is married to Gopalakrishnan 
+
+
