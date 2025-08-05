@@ -31,4 +31,4 @@ source /app/venv/bin/activate
 pip install --break-system-packages -r /app/requirements.txt
 
 # Start uWSGI
-uwsgi
+uwsgi --ini uwsgi.ini
